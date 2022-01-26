@@ -1,0 +1,15 @@
+C:\Users\visha\source\repos\XamarianUI\XamarianUI\XamarianUI\bin\Debug\netstandard2.0\XamarianUI.deps.json
+C:\Users\visha\source\repos\XamarianUI\XamarianUI\XamarianUI\bin\Debug\netstandard2.0\XamarianUI.dll
+C:\Users\visha\source\repos\XamarianUI\XamarianUI\XamarianUI\bin\Debug\netstandard2.0\ref\XamarianUI.dll
+C:\Users\visha\source\repos\XamarianUI\XamarianUI\XamarianUI\bin\Debug\netstandard2.0\XamarianUI.pdb
+C:\Users\visha\source\repos\XamarianUI\XamarianUI\XamarianUI\obj\Debug\netstandard2.0\XamarianUI.csproj.AssemblyReference.cache
+C:\Users\visha\source\repos\XamarianUI\XamarianUI\XamarianUI\obj\Debug\netstandard2.0\XamarianUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\visha\source\repos\XamarianUI\XamarianUI\XamarianUI\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\visha\source\repos\XamarianUI\XamarianUI\XamarianUI\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\visha\source\repos\XamarianUI\XamarianUI\XamarianUI\obj\Debug\netstandard2.0\XamarianUI.AssemblyInfoInputs.cache
+C:\Users\visha\source\repos\XamarianUI\XamarianUI\XamarianUI\obj\Debug\netstandard2.0\XamarianUI.AssemblyInfo.cs
+C:\Users\visha\source\repos\XamarianUI\XamarianUI\XamarianUI\obj\Debug\netstandard2.0\XamarianUI.csproj.CoreCompileInputs.cache
+C:\Users\visha\source\repos\XamarianUI\XamarianUI\XamarianUI\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\visha\source\repos\XamarianUI\XamarianUI\XamarianUI\obj\Debug\netstandard2.0\XamarianUI.dll
+C:\Users\visha\source\repos\XamarianUI\XamarianUI\XamarianUI\obj\Debug\netstandard2.0\ref\XamarianUI.dll
+C:\Users\visha\source\repos\XamarianUI\XamarianUI\XamarianUI\obj\Debug\netstandard2.0\XamarianUI.pdb
